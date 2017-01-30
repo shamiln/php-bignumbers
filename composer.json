@@ -17,7 +17,7 @@
 	"require": {
 		"php": ">=5.4.0",
 		"ext-bcmath": "*",
-		"litipk/php-exceptions": ">=0.1.3"
+		"shamiln/php-exceptions": ">=0.1.3"
 	},
 	"require-dev": {
 		"psy/psysh": ">=0.5.2",
